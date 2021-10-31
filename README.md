@@ -356,12 +356,12 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
 |[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
 |<del>GitLab</del> | Remote | **Closed** |
-|[Lumen Technologies](https://jobs.lumen.com/global/en/job/262143/Intern-Software-Engineer-Summer-2022-CO-or-Remote-US) | Remote | Software Engineer |
-|[Yahoo](https://vzbuilders.wd5.myworkdayjobs.com/careers/job/US---Dulles/Software-Engineering-Intern_JR0017135) | Dulles, VA | Software Engineering Intern |
-|[Unisys](https://jobs.unisys.com/us/en/job/REQ527714/Software-Engineer-Intern) | Irvine, CA or Meagean, MI| Software Engineer Intern |
-|[MailChimp](https://boards.greenhouse.io/mailchimp/jobs/3494609) | Atlanta, GA | Android Intern, [IOS Intern](https://boards.greenhouse.io/mailchimp/jobs/3494608) |
-|[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
-|[Flexport](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
+|[~~Lumen Technologies~~](https://jobs.lumen.com/global/en/job/262143/Intern-Software-Engineer-Summer-2022-CO-or-Remote-US) | Remote | Software Engineer |
+|[~~Yahoo~~](https://vzbuilders.wd5.myworkdayjobs.com/careers/job/US---Dulles/Software-Engineering-Intern_JR0017135) | Dulles, VA | Software Engineering Intern |
+|[~~Unisys~~](https://jobs.unisys.com/us/en/job/REQ527714/Software-Engineer-Intern) | Irvine, CA or Meagean, MI| Software Engineer Intern |
+|[~~MailChimp~~](https://boards.greenhouse.io/mailchimp/jobs/3494609) | Atlanta, GA | Android Intern, [IOS Intern](https://boards.greenhouse.io/mailchimp/jobs/3494608) |
+|[~~Adobe~~](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
+|[~~Flexport~~](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
 |<del>Airbnb</del> | San Francisco, CA | **Closed** <del>Software Engineer Intern</del> |
 |[~~Ping Identity~~](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7647&jid=560331&locvalue=1011) | Denver, CO | Software Engineer Intern |
 |[~~Certik~~](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e/apply?lever-source=LinkedInJobs) | New York, NY | Software Engineer Intern |
