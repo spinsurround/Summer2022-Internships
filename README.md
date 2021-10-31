@@ -348,13 +348,13 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Aurora](https://aurora.tech/jobs/2022-summer-internship-software-engineering-control-5571701002) | Moutain View, Pittburgh | Software Engineer, Control |
 |[Analog Devices](https://career4.successfactors.com/career?career_ns=job_listing&company=analogdeviP1&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=24763) | Colorado | Full Stack Developer Internship | 
 |[Addepar](https://boards.greenhouse.io/addepar1) | Remote | Multiple positions, go to company job pages and scroll to Interns and New Grads |
-|[Cloudflare](https://www.cloudflare.com/careers/jobs/) | Remote | Software Engineer Intern, Data Engineering and Analytics |
-|[Cambly](https://jobs.lever.co/cambly/a965ee9f-3a17-4c20-a17b-8b7a0e4be158) | San Francisco | Software Engineer Intern |
-|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=3434199) | Seattle, WA | Software Development Engineer |
-|[Pendo](https://boards.greenhouse.io/pendo/jobs/5549592002) | Raleigh, NC | Software Engineering Intern |
-|[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
-|[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
-|[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
+|[~~Cloudflare~~](https://www.cloudflare.com/careers/jobs/) | Remote | Software Engineer Intern, Data Engineering and Analytics |
+|[~~Cambly~~](https://jobs.lever.co/cambly/a965ee9f-3a17-4c20-a17b-8b7a0e4be158) | San Francisco | Software Engineer Intern |
+|[~~Qumulo~~](https://qumulo.com/company/jobs/?gh_jid=3434199) | Seattle, WA | Software Development Engineer |
+|[~~Pendo~~](https://boards.greenhouse.io/pendo/jobs/5549592002) | Raleigh, NC | Software Engineering Intern |
+|[~~PathAI~~](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
+|[~~Reddit~~](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
+|[~~Bodo.ai~~](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
 |<del>GitLab</del> | Remote | **Closed** |
 |[~~Lumen Technologies~~](https://jobs.lumen.com/global/en/job/262143/Intern-Software-Engineer-Summer-2022-CO-or-Remote-US) | Remote | Software Engineer |
 |[~~Yahoo~~](https://vzbuilders.wd5.myworkdayjobs.com/careers/job/US---Dulles/Software-Engineering-Intern_JR0017135) | Dulles, VA | Software Engineering Intern |
