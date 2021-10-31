@@ -340,14 +340,14 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Square](https://jobs.smartrecruiters.com/Square/743999777812128-software-engineer-intern-summer-2022)|San Francisco, CA|Software Engineer Intern|
 [T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 |<del>American Airlines</del> | | **Closed** |
-|[~~Second Spectrum](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
-|[Bankers Healthcare Group](https://jobs.lever.co/bhg-inc/3916c46c-c64c-4f4a-9e02-bc362e864d3d) | Remote | Data Analytics Intern |
+|[~~Second Spectrum~~](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
+|[~~Bankers Healthcare Group~~](https://jobs.lever.co/bhg-inc/3916c46c-c64c-4f4a-9e02-bc362e864d3d) | Remote | Data Analytics Intern |
 |<del>FanDuel</del> | | **Closed** |
-|[Voleon](https://jobs.lever.co/voleon/fddcbfab-7541-45ca-8014-295804d47ed8) | Austin | Software Engineer Intern |
-|[Alteryx](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer-Intern--Summer-2022-_R5679) | Irvine, CA | Software Engineer Intern |
-|[Aurora](https://aurora.tech/jobs/2022-summer-internship-software-engineering-control-5571701002) | Moutain View, Pittburgh | Software Engineer, Control |
-|[Analog Devices](https://career4.successfactors.com/career?career_ns=job_listing&company=analogdeviP1&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=24763) | Colorado | Full Stack Developer Internship | 
-|[Addepar~~](https://boards.greenhouse.io/addepar1) | Remote | Multiple positions, go to company job pages and scroll to Interns and New Grads |
+|[~~Voleon~~](https://jobs.lever.co/voleon/fddcbfab-7541-45ca-8014-295804d47ed8) | Austin | Software Engineer Intern |
+|[~~Alteryx~~](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer-Intern--Summer-2022-_R5679) | Irvine, CA | Software Engineer Intern |
+|[~~Aurora~~](https://aurora.tech/jobs/2022-summer-internship-software-engineering-control-5571701002) | Moutain View, Pittburgh | Software Engineer, Control |
+|[~~Analog Devices~~](https://career4.successfactors.com/career?career_ns=job_listing&company=analogdeviP1&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=24763) | Colorado | Full Stack Developer Internship | 
+|[~~Addepar~~](https://boards.greenhouse.io/addepar1) | Remote | Multiple positions, go to company job pages and scroll to Interns and New Grads |
 |[~~Cloudflare~~](https://www.cloudflare.com/careers/jobs/) | Remote | Software Engineer Intern, Data Engineering and Analytics |
 |[~~Cambly~~](https://jobs.lever.co/cambly/a965ee9f-3a17-4c20-a17b-8b7a0e4be158) | San Francisco | Software Engineer Intern |
 |[~~Qumulo~~](https://qumulo.com/company/jobs/?gh_jid=3434199) | Seattle, WA | Software Development Engineer |
