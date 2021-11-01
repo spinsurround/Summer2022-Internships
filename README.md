@@ -319,16 +319,16 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | [Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3473563/?t=b8y5ha) | San Francisco, CA; San Diego, CA; San Mateo, CA| Software Engineer Intern, [Software Development Engineer in Test Intern](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3470463/?t=b8y5ha) |
 | [Genesys](https://genesys.referrals.selectminds.com/jobs/software-engineer-intern-7563?src=JB-10380) | Indianapolis, IN; Durham, NC | Software Engineer Intern |
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Atlanta-Metro/Software-Engineering-Intern---Summer-2022_JR0049473-1?source=Linkedin)| Atlanta, GA | Software Engineering Intern |
-| [Toast](https://boards.greenhouse.io/embed/job_app?token=3461147&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Boston, MA | Software Engineer Intern |
-| [Avanade](https://careers.avanade.com/jobsenus/SearchJobs/Summer%202022?3_56_3=19946) | Atlanta, GA; Dallas, TX; Houston, TX; Raleigh, NC | Data Analytics, Cloud Engineer Intern positions are available. |
-| [Intuit](https://jobs.intuit.com/category/interns-and-new-college-grads-jobs/27595/71554/1) | Mountain View, California; San Diego, California | Software Engineer Intern |
-|[Optum](https://careers.unitedhealthgroup.com/job-search-results/?keyword=Intern&parent_category[]=Optum&location=United%20States&country=US&radius=25) | Various| Various tracks are available. For most positions, sponsorship is not available. |
-|[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Summer%202022) | Remote | Solutions Engineering, Product Security, Software Engineering and other Intern positions are available. |
-|[Gap](https://www.gapinc.com/en-us/careers/job-search?query=GapTech&currentPage=1&sort=score) | San Francisco, CA | GapTech Software Engineering Internship Program. Front End, Back End, TechOps and Clound Engineering tracks are available. |
-|[Checkr](https://boards.greenhouse.io/checkr/jobs/3472399) | San Francisco, CA; Denver, CO; Orlando, FL; Remote | Software Engineering Intern. |
-|[Intuitive](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. |
-|[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! |
-|[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
+| [~~Toast~~](https://boards.greenhouse.io/embed/job_app?token=3461147&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Boston, MA | Software Engineer Intern |
+| [~~Avanade~~](https://careers.avanade.com/jobsenus/SearchJobs/Summer%202022?3_56_3=19946) | Atlanta, GA; Dallas, TX; Houston, TX; Raleigh, NC | Data Analytics, Cloud Engineer Intern positions are available. |
+| [~~Intuit~~](https://jobs.intuit.com/category/interns-and-new-college-grads-jobs/27595/71554/1) | Mountain View, California; San Diego, California | Software Engineer Intern |
+|[~~Optum]~~(https://careers.unitedhealthgroup.com/job-search-results/?keyword=Intern&parent_category[]=Optum&location=United%20States&country=US&radius=25) | Various| Various tracks are available. For most positions, sponsorship is not available. |
+|~~[Splunk~~](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Summer%202022) | Remote | Solutions Engineering, Product Security, Software Engineering and other Intern positions are available. |
+|[~~Gap~~](https://www.gapinc.com/en-us/careers/job-search?query=GapTech&currentPage=1&sort=score) | San Francisco, CA | GapTech Software Engineering Internship Program. Front End, Back End, TechOps and Clound Engineering tracks are available. |
+|[~~Checkr]~~(https://boards.greenhouse.io/checkr/jobs/3472399) | San Francisco, CA; Denver, CO; Orlando, FL; Remote | Software Engineering Intern. |
+|[~~Intuitive~~](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. |
+|[~~Twitter~~](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! |
+|[~~Workday~~](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
 |<del>Epic Games</del> | | **Closed** |
 |[~~Pacific Northwest National Laboratory (PNNL)~~](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
 |[~~Instabase~~](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
