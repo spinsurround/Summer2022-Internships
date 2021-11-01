@@ -330,15 +330,15 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! |
 |[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
 |<del>Epic Games</del> | | **Closed** |
-|[Pacific Northwest National Laboratory (PNNL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
-|[Instabase](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
-|[Red Hat](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
-|[DataChat](https://datachat.bamboohr.com/jobs/view.php?id=26&source=aWQ9MTk%3D) | Madison, WI | Software Engineer Internship |
-[HashiCorp](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
-[Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
-[Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
-|[Square](https://jobs.smartrecruiters.com/Square/743999777812128-software-engineer-intern-summer-2022)|San Francisco, CA|Software Engineer Intern|
-[T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
+|[~~Pacific Northwest National Laboratory (PNNL)~~](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
+|[~~Instabase~~](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
+|[~~Red Hat~~](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
+|[~~DataChat~~](https://datachat.bamboohr.com/jobs/view.php?id=26&source=aWQ9MTk%3D) | Madison, WI | Software Engineer Internship |
+[~~HashiCor~~p](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
+[~~Brex~~](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
+[~~Atlassian~~](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
+|[~~Square~~](https://jobs.smartrecruiters.com/Square/743999777812128-software-engineer-intern-summer-2022)|San Francisco, CA|Software Engineer Intern|
+[~~T-Mobile~~](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 |<del>American Airlines</del> | | **Closed** |
 |[~~Second Spectrum~~](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
 |[~~Bankers Healthcare Group~~](https://jobs.lever.co/bhg-inc/3916c46c-c64c-4f4a-9e02-bc362e864d3d) | Remote | Data Analytics Intern |
