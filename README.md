@@ -322,8 +322,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | [~~Toast~~](https://boards.greenhouse.io/embed/job_app?token=3461147&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Boston, MA | Software Engineer Intern |
 | [~~Avanade~~](https://careers.avanade.com/jobsenus/SearchJobs/Summer%202022?3_56_3=19946) | Atlanta, GA; Dallas, TX; Houston, TX; Raleigh, NC | Data Analytics, Cloud Engineer Intern positions are available. |
 | [~~Intuit~~](https://jobs.intuit.com/category/interns-and-new-college-grads-jobs/27595/71554/1) | Mountain View, California; San Diego, California | Software Engineer Intern |
-|[~~Optum]~~(https://careers.unitedhealthgroup.com/job-search-results/?keyword=Intern&parent_category[]=Optum&location=United%20States&country=US&radius=25) | Various| Various tracks are available. For most positions, sponsorship is not available. |
-|~~[Splunk~~](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Summer%202022) | Remote | Solutions Engineering, Product Security, Software Engineering and other Intern positions are available. |
+|[~~Optum~~](https://careers.unitedhealthgroup.com/job-search-results/?keyword=Intern&parent_category[]=Optum&location=United%20States&country=US&radius=25) | Various| Various tracks are available. For most positions, sponsorship is not available. |
+|[~~Splunk~~](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Summer%202022) | Remote | Solutions Engineering, Product Security, Software Engineering and other Intern positions are available. |
 |[~~Gap~~](https://www.gapinc.com/en-us/careers/job-search?query=GapTech&currentPage=1&sort=score) | San Francisco, CA | GapTech Software Engineering Internship Program. Front End, Back End, TechOps and Clound Engineering tracks are available. |
 |[~~Checkr]~~(https://boards.greenhouse.io/checkr/jobs/3472399) | San Francisco, CA; Denver, CO; Orlando, FL; Remote | Software Engineering Intern. |
 |[~~Intuitive~~](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. |
@@ -334,9 +334,9 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[~~Instabase~~](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
 |[~~Red Hat~~](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
 |[~~DataChat~~](https://datachat.bamboohr.com/jobs/view.php?id=26&source=aWQ9MTk%3D) | Madison, WI | Software Engineer Internship |
-[~~HashiCor~~p](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
-[~~Brex~~](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
-[~~Atlassian~~](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
+|[~~HashiCor~~](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
+|[~~Brex~~](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
+|[~~Atlassian~~](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
 |[~~Square~~](https://jobs.smartrecruiters.com/Square/743999777812128-software-engineer-intern-summer-2022)|San Francisco, CA|Software Engineer Intern|
 [~~T-Mobile~~](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 |<del>American Airlines</del> | | **Closed** |
