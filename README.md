@@ -289,21 +289,21 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[New Relic](https://jobs.jobvite.com/careers/newrelic/job/ohpNgfwt) | Portland, OR; San Francisco, CA; Atlanta, GA | Undergrad Software Engineer Intern |
 |[Abrigo](http://jobs.jobvite.com/bankerstoolbox/job/ojfMgfwk) | Raleigh, NC;  Austin, TX | Software Engineering Intern |
 |[Allegion](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR19365) | Carmel, IN | Software Engineer, [Web Developer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Web-Developer_JR19357-1), [Cloud/Software Administrator](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1), [Quality Engineer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1) |
-|[Genesis](https://apply.workable.com/genesistrading/j/0C77F4818A/) | New York, NY | Software Engineer Intern |
-|[Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=3445587) | Redwood City, CA | Software Engineer Intern |
-|[Kiva](https://boards.greenhouse.io/kivaorg/jobs/3458616) | Remote | Software Engineering Intern |
-|[OppFi](https://boards.greenhouse.io/opploans/jobs/4701555003) | Chicago, IL; Remote | Software Engineering Internship |
-|[KnowBe4](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Clearwater, FL | Software Engineer Intern - Frontend, [Software Engineer in Test](https://boards.greenhouse.io/knowbe4/jobs/5514917002) |
-|[Nutanix](https://nutanix.eightfold.ai/careers?pid=8981941&domain=nutanix.com) | San Jose, CA | Software Engineer |
-|[Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/3444) | Detroit, MI | Information Technology/Computer Science Intern |
-|[Bentley](https://jobs.bentley.com/job/Exton-Software-Development-Summer-Intern-PA-19341/787689500/) | Multiple Locations | Software Developer |
-|[Google](https://careers.google.com/jobs/results/?employment_type=INTERN) | Multiple Locations (USA and Canada) | STEP and Software Engineering internships |
-|[Shure Inc](https://careers-shure.icims.com/jobs/2389/application-software-engineering-intern/job) | Niles, IL | Application Software Development Intern, [Embedded Software Development Intern](https://careers-shure.icims.com/jobs/2299/embedded-software-development-intern/job), [Cloud Software Development Intern](https://careers-shure.icims.com/jobs/2349/cloud-software-development-intern/job), [Software Development Intern - Devops](https://careers-shure.icims.com/jobs/2378/software-development-intern-%2528devops%2529/job), [Automated Test Engineering Software Intern](https://careers-shure.icims.com/jobs/2335/automated-test-engineering-software-intern/job) |
-|[X By 2](https://jobs.lever.co/xby2/06041915-a5d6-4741-9ba0-c297d0638a40) | Metro Detroit | Software Engineer Intern |
-|[Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern--Summer-2022_R34868) | Westminster, CO | Software Engineering Intern |
-|[Victoria's Secret](https://www.linkedin.com/jobs/view/2699248828/?refId=49f31cc5-1be0-4cd1-b9b4-dcf7f00228b9) | Columbus, OH | Technology Internship, multiple positions available |
-|[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
-|[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
+|[~~Genesis~~](https://apply.workable.com/genesistrading/j/0C77F4818A/) | New York, NY | Software Engineer Intern |
+|[~~Chan Zuckerberg Initiative~~](https://boards.greenhouse.io/embed/job_app?token=3445587) | Redwood City, CA | Software Engineer Intern |
+|[~~Kiva~~](https://boards.greenhouse.io/kivaorg/jobs/3458616) | Remote | Software Engineering Intern |
+|[~~OppFi~~](https://boards.greenhouse.io/opploans/jobs/4701555003) | Chicago, IL; Remote | Software Engineering Internship |
+|[~~KnowBe4~~](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Clearwater, FL | Software Engineer Intern - Frontend, [Software Engineer in Test](https://boards.greenhouse.io/knowbe4/jobs/5514917002) |
+|[~~Nutanix~~](https://nutanix.eightfold.ai/careers?pid=8981941&domain=nutanix.com) | San Jose, CA | Software Engineer |
+|[~~Blue Cross Blue Shield of Michigan~~](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/3444) | Detroit, MI | Information Technology/Computer Science Intern |
+|[~~Bentley~~](https://jobs.bentley.com/job/Exton-Software-Development-Summer-Intern-PA-19341/787689500/) | Multiple Locations | Software Developer |
+|[~~Google~~](https://careers.google.com/jobs/results/?employment_type=INTERN) | Multiple Locations (USA and Canada) | STEP and Software Engineering internships |
+|[~~Shure Inc~~](https://careers-shure.icims.com/jobs/2389/application-software-engineering-intern/job) | Niles, IL | Application Software Development Intern, [~~Embedded Software Development Intern~~](https://careers-shure.icims.com/jobs/2299/embedded-software-development-intern/job), [Cloud Software Development Intern](https://careers-shure.icims.com/jobs/2349/cloud-software-development-intern/job), [Software Development Intern - Devops](https://careers-shure.icims.com/jobs/2378/software-development-intern-%2528devops%2529/job), [Automated Test Engineering Software Intern](https://careers-shure.icims.com/jobs/2335/automated-test-engineering-software-intern/job) |
+|[~~X By 2~~](https://jobs.lever.co/xby2/06041915-a5d6-4741-9ba0-c297d0638a40) | Metro Detroit | Software Engineer Intern |
+|[~~Trimble~~](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern--Summer-2022_R34868) | Westminster, CO | Software Engineering Intern |
+|[~~Victoria's Secret~~](https://www.linkedin.com/jobs/view/2699248828/?refId=49f31cc5-1be0-4cd1-b9b4-dcf7f00228b9) | Columbus, OH | Technology Internship, multiple positions available |
+|[~~Gordian~~](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
+|[~~Ginkgo Bioworks~~](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
 |<del> Cloudera </del> | Santa Clara, CA | **Temporarily Closed** Software Engineering Intern |
 |[~~Aegon~~](https://careers.aegon.com/en/vacancies/united-states/denver/administration/data-science-intern-summer-2022/) | Denver, CO | Data Science Intern |
 |[~~TransAmeric~~a](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
