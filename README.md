@@ -275,20 +275,20 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Honeywell](https://honeywell.csod.com/ux/ats/careersite/1/home/requisition/293327?c=honeywell) | Not Specified (US) | Software Engineer Intern/Co-Op
 |[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
 |[Hilti North America](https://careers.us.hilti.com/en-us/jobs/software-developer-intern) | Plano, TX | Software Developer Intern |
-|[Battelle](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH; Chantilly, VA | Software Engineering Intern, [Cyber Engineer Intern](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)), [Data Science Intern](https://jobs.battelle.org/job/13806048/data-science-intern-summer-2022-columbus-oh/) |
-|[C3.AI](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
-|[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
-|[ByteDance](https://www.linkedin.com/jobs/view/2709287898/) | Mountain View, CA | Software Engineer Intern |
-|[Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
-|[Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern |
-|[Intel](https://jobs.intel.com/ShowJob/Id/3100682/GPU-Deep-Learning-Software-Engineer-(Intern)) | Santa Clara, CA | GPU Deep Learning Software Engineer Intern, must be pursuing Masters/PHD |
-|[Pocket Gems](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
-|[Neeva](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | Mountain View, CA | |
-|[SpaceX](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Inter/Coop; US Citizen Only |
-|[Sentry](https://boards.greenhouse.io/sentry/jobs/3462747?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer Intern |
-|[New Relic](https://jobs.jobvite.com/careers/newrelic/job/ohpNgfwt) | Portland, OR; San Francisco, CA; Atlanta, GA | Undergrad Software Engineer Intern |
-|[Abrigo](http://jobs.jobvite.com/bankerstoolbox/job/ojfMgfwk) | Raleigh, NC;  Austin, TX | Software Engineering Intern |
-|[Allegion](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR19365) | Carmel, IN | Software Engineer, [Web Developer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Web-Developer_JR19357-1), [Cloud/Software Administrator](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1), [Quality Engineer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1) |
+|[~~Battelle~~](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH; Chantilly, VA | Software Engineering Intern, [Cyber Engineer Intern](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)), [Data Science Intern](https://jobs.battelle.org/job/13806048/data-science-intern-summer-2022-columbus-oh/) |
+|[~~C3.AI~~](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
+|[~~Duke Energy Corporation~~](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
+|[~~ByteDance~~](https://www.linkedin.com/jobs/view/2709287898/) | Mountain View, CA | Software Engineer Intern |
+|[~~Nutrien~~](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
+|[~~Expedia~~](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern |
+|[~~Intel~~](https://jobs.intel.com/ShowJob/Id/3100682/GPU-Deep-Learning-Software-Engineer-(Intern)) | Santa Clara, CA | GPU Deep Learning Software Engineer Intern, must be pursuing Masters/PHD |
+|[~~Pocket Gems~~](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
+|[~~Neeva~~](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | Mountain View, CA | |
+|[~~SpaceX~~](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Inter/Coop; US Citizen Only |
+|[~~Sentry~~](https://boards.greenhouse.io/sentry/jobs/3462747?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer Intern |
+|[~~New Relic~~](https://jobs.jobvite.com/careers/newrelic/job/ohpNgfwt) | Portland, OR; San Francisco, CA; Atlanta, GA | Undergrad Software Engineer Intern |
+|[~~Abrigo~~](http://jobs.jobvite.com/bankerstoolbox/job/ojfMgfwk) | Raleigh, NC;  Austin, TX | Software Engineering Intern |
+|[~~Allegion~~](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR19365) | Carmel, IN | Software Engineer, [Web Developer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Web-Developer_JR19357-1), [Cloud/Software Administrator](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1), [Quality Engineer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1) |
 |[~~Genesis~~](https://apply.workable.com/genesistrading/j/0C77F4818A/) | New York, NY | Software Engineer Intern |
 |[~~Chan Zuckerberg Initiative~~](https://boards.greenhouse.io/embed/job_app?token=3445587) | Redwood City, CA | Software Engineer Intern |
 |[~~Kiva~~](https://boards.greenhouse.io/kivaorg/jobs/3458616) | Remote | Software Engineering Intern |
