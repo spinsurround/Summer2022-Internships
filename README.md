@@ -236,20 +236,20 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Schonfeld](https://boards.greenhouse.io/schonfeld?t=e73f47fb1) | New York, NY; Miami, FL | Multiple Positions |
 |[Vise](https://boards.greenhouse.io/viseai/jobs/4695791003) | New York, NY | Software Engineering Intern |
 |<del>Thomson Reuters</del> | | **Closed** |
-|[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/8431) | Germantown, MD | Software Engineer Intern, US Citizenship is required |
-|[TJX](https://jobs.tjx.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_dept=&optionsFacetsDD_customfield5=&optionsFacetsDD_customfield2=) | Marlborough, MA | Multiple Positions; For Sophomore and Junior students |
-|[Textron](https://textron.taleo.net/careersection/textron/moresearch.ftl) | Fort Worth, TX | Electrical/Computer/Software Engineer. US citizenship required for security clearance. |
-|[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | Various | Software Engineer Intern, [Data Science & Analytics Intern](https://jobs.discovery.com/careers-home/jobs/27406?lang=en-us&previousLocale=en-US), must be rising junior or senior |
-|[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. Applicants must be eligible for US security clearance;​ all clearances require US citizenship.|
-|[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions. Citizens of "designated countries" are not eligible unless they are US Permanent Residents. |
-|[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
-|[MongoDB](https://www.mongodb.com/careers/jobs/3336092) | New York, Austin, SF | Software Engineering Intern |
-|[QVC](https://careers.qurateretailgroup.com/job-search-results/?keyword=2022) | Various | Multiple Openings. |
-|[DriveTime](https://jobs.drivetime.com/jobs?page_size=50&page_number=1&keyword=internship&sort_by=score&sort_order=DESC) | Tempe, AZ | Application Developer, Database Developer, Data Science Developer |
-|[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2022_R014354) | Neenah, WI | Software Engineer Intern. Few Other Openings too Available.|
-|[Slack](https://slack.com/intl/en-ca/careers/university-recruiting#openings) | Toronto (Canada), San Francisco (USA) | Software Engineer Internship | 
-|[Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations | Software Internships|
-|[Geico](https://careers.geico.com/us/en/job/R0027183/Summer-Technology-Internship) | Chevy Chase, Maryland | Summer Technology Internship |
+|[~~Viasat~~](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/8431) | Germantown, MD | Software Engineer Intern, US Citizenship is required |
+|[~~TJX~~](https://jobs.tjx.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_dept=&optionsFacetsDD_customfield5=&optionsFacetsDD_customfield2=) | Marlborough, MA | Multiple Positions; For Sophomore and Junior students |
+|[~~Textron~~](https://textron.taleo.net/careersection/textron/moresearch.ftl) | Fort Worth, TX | Electrical/Computer/Software Engineer. US citizenship required for security clearance. |
+|[~~Discovery Inc~~](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | Various | Software Engineer Intern, [Data Science & Analytics Intern](https://jobs.discovery.com/careers-home/jobs/27406?lang=en-us&previousLocale=en-US), must be rising junior or senior |
+|[~~Novetta~~](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. Applicants must be eligible for US security clearance;​ all clearances require US citizenship.|
+|[~~NASA Jet Propulsion Laboratory~~](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions. Citizens of "designated countries" are not eligible unless they are US Permanent Residents. |
+|[~~McDonald's~~](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
+|[~~MongoDB~~](https://www.mongodb.com/careers/jobs/3336092) | New York, Austin, SF | Software Engineering Intern |
+|[~~QVC~~](https://careers.qurateretailgroup.com/job-search-results/?keyword=2022) | Various | Multiple Openings. |
+|[~~DriveTime~~](https://jobs.drivetime.com/jobs?page_size=50&page_number=1&keyword=internship&sort_by=score&sort_order=DESC) | Tempe, AZ | Application Developer, Database Developer, Data Science Developer |
+|[~~Plexus~~](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2022_R014354) | Neenah, WI | Software Engineer Intern. Few Other Openings too Available.|
+|[~~Slack~~](https://slack.com/intl/en-ca/careers/university-recruiting#openings) | Toronto (Canada), San Francisco (USA) | Software Engineer Internship | 
+|[~~Waymo~~](https://waymo.com/careers/#software-internships) | Multiple Locations | Software Internships|
+|[~~Geico~~](https://careers.geico.com/us/en/job/R0027183/Summer-Technology-Internship) | Chevy Chase, Maryland | Summer Technology Internship |
 |[~~Indeed~~](https://ur-careers-indeed.icims.com/jobs/32369/job) | Remote | Software Developer Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[~~LightBox~~](https://lightbox.secure.force.com/careers/fRecruit__ApplyJob?vacancyNo=VN097&) | New York, NY; Shelton, CT | Intern, R&D / Python & Data Science. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[~~MarketAxess Corporation~~](https://jobs.smartrecruiters.com/MarketAxess/743999768888675-data-software-engineering-intern-2022) | New York, NY | Data Software Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
