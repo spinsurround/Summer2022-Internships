@@ -184,20 +184,20 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
-|[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer-Intern---Americas-Campus--Summer-2022-_R12001) | Various | Software Engineer Intern. Only for Undergraduates. |
-|[Leidos](https://careers.leidos.com/search/intern/jobs) | Various | US Citizenship required for Software Developer Intern |
-|[Broadway Technology](https://jobs.lever.co/broadwaytechnology/2048b077-9404-4ab0-8dc9-9022ab90a711) | New York, NY | Software Engineer Intern |
-|[Asurion](https://careers.asurion.com/ShowJob/Id/11450/Software%20Engineer%20Intern) | Nashville, TN | Software Engineering Intern (for rising juniors and seniors)|
-|[Yext](https://boards.greenhouse.io/yext/jobs/3406424) | Washington, D.C | Software Engineering Intern |
-|[PatientCo](https://jobs.lever.co/patientcolife/2dfa196b-65c9-49ba-963f-5c0956cd870d) | Atlanta | Software Engineer Co-op |
-|[24G](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
-|[ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/743999768965759-software-engineering-internship) | Santa Clara, CA | Software Engineering Intern, Various Positions available |
-|[Quantcast](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
-|[U.S Bank](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/XMLNAME-2022-Undergraduate-Summer-Internship-Program---Software-Development_2021-0043490) | Various | Software Development Intern. Only for Undergraduates.|
-|[NetApp](https://netapp.eightfold.ai/careers?pid=8617938&seniority=Intern&domain=netapp.com&triggerGoButton=false) | Various | |
-|[FireEye](https://www.fireeye.com/company/jobs.html) | Various | [Mandiant Information Security](https://jobs.smartrecruiters.com/FireEyeInc1/743999768661855), [Mandiant Incident Response](https://jobs.smartrecruiters.com/FireEyeInc1/743999768673869), [Reverse Engineering - Malware Analysis](https://jobs.smartrecruiters.com/FireEyeInc1/743999768674573) and other Intern positions are available. Some positions require applicant to be eligible to work in the US without sponsorship. |
-|[Uline](https://www.uline.jobs/JobDetails?culture=en&jobid=5648BR&jobtitle=Data-Engineer-Internship---Summer-2022)| Pleasant Prairie, Wisconsin | Data Engineer Internship |
-|[Blend](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
+|[~~Factset~~](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer-Intern---Americas-Campus--Summer-2022-_R12001) | Various | Software Engineer Intern. Only for Undergraduates. |
+|[~~Leidos~~](https://careers.leidos.com/search/intern/jobs) | Various | US Citizenship required for Software Developer Intern |
+|[~~Broadway Technology~~](https://jobs.lever.co/broadwaytechnology/2048b077-9404-4ab0-8dc9-9022ab90a711) | New York, NY | Software Engineer Intern |
+|[~~Asurion~~](https://careers.asurion.com/ShowJob/Id/11450/Software%20Engineer%20Intern) | Nashville, TN | Software Engineering Intern (for rising juniors and seniors)|
+|[~~Yext~~](https://boards.greenhouse.io/yext/jobs/3406424) | Washington, D.C | Software Engineering Intern |
+|[~~PatientCo~~](https://jobs.lever.co/patientcolife/2dfa196b-65c9-49ba-963f-5c0956cd870d) | Atlanta | Software Engineer Co-op |
+|[~~24G~~](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
+|[~~ServiceNow~~](https://jobs.smartrecruiters.com/ServiceNow/743999768965759-software-engineering-internship) | Santa Clara, CA | Software Engineering Intern, Various Positions available |
+|[~~Quantcast~~](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
+|[~~U.S Bank~~](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/XMLNAME-2022-Undergraduate-Summer-Internship-Program---Software-Development_2021-0043490) | Various | Software Development Intern. Only for Undergraduates.|
+|[~~NetApp~~](https://netapp.eightfold.ai/careers?pid=8617938&seniority=Intern&domain=netapp.com&triggerGoButton=false) | Various | |
+|[~~FireEye~~](https://www.fireeye.com/company/jobs.html) | Various | [Mandiant Information Security](https://jobs.smartrecruiters.com/FireEyeInc1/743999768661855), [Mandiant Incident Response](https://jobs.smartrecruiters.com/FireEyeInc1/743999768673869), [Reverse Engineering - Malware Analysis](https://jobs.smartrecruiters.com/FireEyeInc1/743999768674573) and other Intern positions are available. Some positions require applicant to be eligible to work in the US without sponsorship. |
+|[~~Uline~~](https://www.uline.jobs/JobDetails?culture=en&jobid=5648BR&jobtitle=Data-Engineer-Internship---Summer-2022)| Pleasant Prairie, Wisconsin | Data Engineer Internship |
+|[~~Blend~~](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
 | <del>Motional</del> | | **Closed** |
 |[~~Hudl~~](https://boards.greenhouse.io/hudl) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
 |[~~Paylocity~~](https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/8708) | Remote, US | Software Engineer Intern |
