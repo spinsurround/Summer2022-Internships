@@ -171,19 +171,19 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | <del>Belcan</del> | | **Closed** |
 |<del>Unilever</del> | United States; Remote | **Closed** Information Technology Intern |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oa8EgfwW) | Austin, TX; Boston, MA | [Applications Engineering](https://jobs.jobvite.com/silabs/job/olSDgfwQ), [Validation Engineering](https://jobs.jobvite.com/silabs/job/oQFEgfw9), [Software Engineering](https://jobs.jobvite.com/silabs/job/oa8EgfwW), [Product Test Engineering](https://jobs.jobvite.com/silabs/job/o38EgfwP) Intern positions are available. |
-|[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | Search `2022` for multiple positions. Does not sponsor visas |
-|[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/search?ss=1&searchKeyword=2022) | Various | Multiple Intern Openings. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
-|[TuSimple](https://boards.greenhouse.io/tusimpleinternship) | Tucson, AZ; San Diego, CA | |
-|[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | Intern - Software Engineer. Applicants must have work authorization for the duration of the internship. |
-|[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | Software Engineer Intern. Applicants must have work authorization for the duration of the internship. |
-|[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
-|[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
-|[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
-|[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/)| Seattle, Palo Alto, San Francisco | Software Engineer Intern |
-|[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | Software Engineer - Intern |
-|[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
-|[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
-|[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
+|[~~Zoom~~](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | Search `2022` for multiple positions. Does not sponsor visas |
+|[~~Zebra Technologies~~](https://early-careers-zebra.icims.com/jobs/search?ss=1&searchKeyword=2022) | Various | Multiple Intern Openings. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[~~TuSimple~~](https://boards.greenhouse.io/tusimpleinternship) | Tucson, AZ; San Diego, CA | |
+|[~~Ocient~~](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | Intern - Software Engineer. Applicants must have work authorization for the duration of the internship. |
+|[~~Texas Instruments~~](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | Software Engineer Intern. Applicants must have work authorization for the duration of the internship. |
+|[~~Amazon Robotics~~](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
+|[~~Wells Fargo~~](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[~~DataBricks~~](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
+|[~~Pinterest~~](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/)| Seattle, Palo Alto, San Francisco | Software Engineer Intern |
+|[~~Plaid~~](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | Software Engineer - Intern |
+|[~~Mastercard~~](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[~~Bloomberg~~](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
+|[~~Twilio~~](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
 |[~~Factset~~](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer-Intern---Americas-Campus--Summer-2022-_R12001) | Various | Software Engineer Intern. Only for Undergraduates. |
 |[~~Leidos~~](https://careers.leidos.com/search/intern/jobs) | Various | US Citizenship required for Software Developer Intern |
 |[~~Broadway Technology~~](https://jobs.lever.co/broadwaytechnology/2048b077-9404-4ab0-8dc9-9022ab90a711) | New York, NY | Software Engineer Intern |
@@ -371,7 +371,15 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[~~Duquesne Light~~](https://career4.successfactors.com/career?career_ns=job_listing&company=Duquesne&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14995&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/New_York&_s.crb=jH3kSRQhREyfjLqs4Le6Uw3mtTJtDQwXZQ%2bjjrQi%2fHQ%3d) | Hybrid in Pittsburgh or Remote | SWE, IT, Security, and more |
 |[~~Vistaprint~~](https://jobs.vistaprint.com/Vistaprint/job/Boston-Software-Engineer-Intern-Remote-MA-02111/805429800/?feedId=281100&utm_source=LinkedInJobPostings&utm_campaign=Vistaprint_LinkedIn) | Remote | Software Engineer Intern |
 |[~~Snowflake~~](https://careers.snowflake.com/us/en/job/SNCOUS5362467002EXTERNALENUS/Software-Engineer-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62) | San Mateo, California | Software Engineer Intern | 
+<<<<<<< Local Changes
+|[Regeneron Pharmaceuticals](https://careers.regeneron.com/search-results?keywords=Computer%20Science) | Rensselaer, NY; Tarrytown, NY | IT Intern |
+|[Tesla](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
+|[Replicon](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
 
+
+=======
+
+>>>>>>> External Changes
 
 **We love our contributors ❤️❤️**
 
