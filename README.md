@@ -390,10 +390,9 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[~~Duquesne Light~~](https://career4.successfactors.com/career?career_ns=job_listing&company=Duquesne&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14995&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/New_York&_s.crb=jH3kSRQhREyfjLqs4Le6Uw3mtTJtDQwXZQ%2bjjrQi%2fHQ%3d) | Hybrid in Pittsburgh or Remote | SWE, IT, Security, and more |
 |[~~Vistaprint~~](https://jobs.vistaprint.com/Vistaprint/job/Boston-Software-Engineer-Intern-Remote-MA-02111/805429800/?feedId=281100&utm_source=LinkedInJobPostings&utm_campaign=Vistaprint_LinkedIn) | Remote | Software Engineer Intern |
 |[~~Snowflake~~](https://careers.snowflake.com/us/en/job/SNCOUS5362467002EXTERNALENUS/Software-Engineer-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62) | San Mateo, California | Software Engineer Intern | 
-<<<<<<< Local Changes
-|[Regeneron Pharmaceuticals](https://careers.regeneron.com/search-results?keywords=Computer%20Science) | Rensselaer, NY; Tarrytown, NY | IT Intern |
-|[Tesla](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
-|[Replicon](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
+|[~~Regeneron Pharmaceuticals~~](https://careers.regeneron.com/search-results?keywords=Computer%20Science) | Rensselaer, NY; Tarrytown, NY | IT Intern |
+|[~~Tesla~~](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
+|[~~Replicon~~](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
 
 
 **We love our contributors ❤️❤️**
