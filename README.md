@@ -1,6 +1,25 @@
 # Summer 2022 Tech Internships by Pitt CSC 🤿👩‍💻
 Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2022. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
 
+---
+
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450"  alt="Simplify">
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+---
+
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
 
  📈 For tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
@@ -40,7 +59,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant |
 |<del>Asana</del> | | **Closed** |
-|[Target](https://jobs.target.com/job/brooklyn-park/software-engineering-internship-summer-2022/1118/13300878224) | Brooklyn Park, MN | Software Engineering Internship |
+|<del>Target</del> | | **Closed** |
 |<del>BNP Paribas</del> | | **Closed** |
 |[MealMe](https://www.mealme.ai/software-internship) | Not displayed | See positions [here](https://www.mealme.ai/careers) |
 |[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | [ML/AI Internship](https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT) |
@@ -377,10 +396,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Replicon](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
 
 
-=======
-
->>>>>>> External Changes
-
 **We love our contributors ❤️❤️**
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
@@ -444,3 +459,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [alexypdu](https://github.com/alexypdu)
 * [yiyiyimu](https://github.com/yiyiyimu)
 * [raymondwzeng](https://github.com/raymondwzeng)
+* [dolnuea](https://github.com/dolnuea)
